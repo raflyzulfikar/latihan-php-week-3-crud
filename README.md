@@ -1,4 +1,4 @@
-#LATIHAN PHP - CREATE, READ, UPDATE, DELETE
+# LATIHAN PHP - CREATE, READ, UPDATE, DELETE
 Mempelajari materi PHP tentang Create, Read, Update, Delete.
 - Create itu menambahkan data ke dalam database.
 - Read itu menampilkan data yang sudah ditambahkan sebelumnya ke dalam database.
